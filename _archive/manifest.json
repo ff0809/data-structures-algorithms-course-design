@@ -1,0 +1,65 @@
+[
+  {
+    "path": "2454259_费凡_数据科学与大数据技术_课程设计.mp4",
+    "bytes": 27790009,
+    "storage": "git",
+    "sha256": "0d9c704f0c005dee463c333fefb04042b72084be0c74f180182e521a0df4a064",
+    "mtime_ns": 1784438428549476500
+  },
+  {
+    "path": "2454259_费凡_数据科学与大数据技术_课程设计总结报告.docx",
+    "bytes": 3545866,
+    "storage": "git",
+    "sha256": "7375a74df77123a30584ca41b51c6eb1cc85546c532e84f04bd5e1df59359677",
+    "mtime_ns": 1783882200760609400
+  },
+  {
+    "path": "~$54259_费凡_数据科学与大数据技术_课程设计总结报告.docx",
+    "bytes": 162,
+    "storage": "git",
+    "sha256": "aee78a8ee5f0e000a338dd1c3dec8a783aedc1264076c30254e2393823e03752",
+    "mtime_ns": 1788705150571967100
+  },
+  {
+    "path": "讲稿改.pdf",
+    "bytes": 254685,
+    "storage": "git",
+    "sha256": "e0b6bc99ebe11adca79503e592cdba9645142df78180bed72c3e465be5930b97",
+    "mtime_ns": 1784437157397185200
+  },
+  {
+    "path": "2454259_费凡_数据科学与大数据技术_执行程序\\gui_dashboard.exe",
+    "bytes": 9917682,
+    "storage": "git",
+    "sha256": "15b7855ad4cbe27e6f78bf1c161aed8bce2fc864d6d5ee97d62fcd0a149bb2b7",
+    "mtime_ns": 1784444327246090000
+  },
+  {
+    "path": "2454259_费凡_数据科学与大数据技术_源代码\\gui_dashboard.py",
+    "bytes": 13262,
+    "storage": "git",
+    "sha256": "e0bcf8ef21c32fd1b11ce303c2f1167679f8d90ba5e9c5258eb8eef40c227b1f",
+    "mtime_ns": 1783860841058295800
+  },
+  {
+    "path": "2454259_费凡_数据科学与大数据技术_源代码\\manager.py",
+    "bytes": 5707,
+    "storage": "git",
+    "sha256": "c72348032e9a3561ee09ccad757de867c21bfd83f70aa1febf1ac3918e9b5436",
+    "mtime_ns": 1784398717621169100
+  },
+  {
+    "path": "2454259_费凡_数据科学与大数据技术_源代码\\models.py",
+    "bytes": 1539,
+    "storage": "git",
+    "sha256": "d3579508f4548a05cf2fb45c845e11b53e3980ba72f52d05daaa1481cb46de67",
+    "mtime_ns": 1783861211839345600
+  },
+  {
+    "path": "2454259_费凡_数据科学与大数据技术_源代码\\structures.py",
+    "bytes": 5700,
+    "storage": "git",
+    "sha256": "30329e40dc9f6334ad70282da29b043d7c5c884f68dea4e30f173e85be6ba793",
+    "mtime_ns": 1783861243228612700
+  }
+]
